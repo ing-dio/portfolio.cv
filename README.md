@@ -20,7 +20,6 @@ This personal landing page showcases:
 
 ## 📫 Contact
 Feel free to reach out or connect with me!
-###diosbel9302@gmail.com
 ---
 
 Thanks for visiting!
