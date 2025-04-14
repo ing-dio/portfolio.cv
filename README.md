@@ -14,7 +14,7 @@ This personal landing page showcases:
 - Links to my GitHub, LinkedIn, and other platforms
 
 ## 🛠️My Tech Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Frontend:** HTML, CSS, JS, TS, React, Expo
 - **Backend:** Java, Python, MongoDB, PostgreSQL
 - **Other:** Git, Docker, REST APIs, GraphQL
 
